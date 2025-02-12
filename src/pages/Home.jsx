@@ -1,4 +1,4 @@
-import Footer from "../components/home/Footer"
+import Footer from "../components/Footer"
 import Header from "../components/home/Header"
 import Section1 from "../components/home/Section1"
 import Section2 from "../components/home/Section2"

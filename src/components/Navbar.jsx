@@ -23,7 +23,7 @@ function Navbar() {
                     </ul>
                     <div className="flex gap-5 items-center text-[18px]">
                         <Link to="/login" className="text-[#707070] hover:text-white transition-all delay-75">Login</Link>
-                        <Link to="/signup" className="text-white bg-[#306EF7] rounded-lg px-3 py-2">Sign Up</Link>
+                        <Link to="/signup" className="text-white bg-[#306EF7] rounded-lg px-4 py-2">Sign Up</Link>
                     </div>
                 </div>
             </div>
