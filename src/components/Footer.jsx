@@ -1,4 +1,4 @@
-import Dot from "/assets/dot.svg"
+import Dot from "../assets/dot.svg"
 import Logo from "/assets/logo.svg"
 import Company from "/assets/company_logo.svg"
 import { Link, useLocation } from "react-router-dom"
