@@ -1,4 +1,4 @@
-import Image from "../../assets/image2.svg"
+import Image from "/src/assets/image2.svg"
 
 function Section6() {
     return(

@@ -1,6 +1,6 @@
-import Emoji1 from "../../assets/smile_emoji.svg"
-import Emoji2 from "../../assets/happy_emoji.svg"
-import Emoji3 from "../../assets/party_emoji.svg"
+import Emoji1 from "/src/assets/smile_emoji.svg"
+import Emoji2 from "/src/assets/happy_emoji.svg"
+import Emoji3 from "/src/assets/party_emoji.svg"
 
 function Section1() {
     return(

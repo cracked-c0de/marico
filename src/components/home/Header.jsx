@@ -1,4 +1,4 @@
-import Dot from "../../assets/dot.svg"
+import Dot from "/src/assets/dot.svg"
 
 function Header() {
     return(

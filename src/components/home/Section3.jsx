@@ -1,4 +1,4 @@
-import Mobile from "../../assets/mobile.svg"
+import Mobile from "/src/assets/mobile.svg"
 
 function Section3() {
 

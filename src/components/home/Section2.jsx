@@ -1,6 +1,6 @@
-import Screen from "../../assets/screen.svg"
-import Bullet1 from "../../assets/bullet.svg"
-import Bullet2 from "../../assets/bullet2.svg"
+import Screen from "/src/assets/screen.svg"
+import Bullet1 from "/src/assets/bullet.svg"
+import Bullet2 from "/src/assets/bullet2.svg"
 
 function Section2() {
     return(

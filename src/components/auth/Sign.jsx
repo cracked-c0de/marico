@@ -41,7 +41,7 @@ function Sign() {
                         <a href=""><button className="flex items-center gap-2 mx-7 text-nowrap border py-2 px-25 rounded-lg text-[18px] hover:bg-white cursor-pointer hover:border-white hover:text-black transition-all delay-75"><FcGoogle className="text-[20px]"/> Log in with Google</button></a>
                         <a href=""><button className="flex items-center gap-2 mx-7 text-nowrap border py-2 px-25 rounded-lg text-[18px] hover:bg-white cursor-pointer hover:border-white hover:text-black transition-all delay-75"><FaFacebook className="text-[#4267B2] text-[20px]"/> Log in with Facebook</button></a>
                     </div>
-                    <p className="text-center">Already have an account? <Link to="/signup" className="underline">Please Log in.</Link></p>
+                    <p className="text-center">Already have an account? <Link to="/login" className="underline">Please Log in.</Link></p>
                 </div>
             </div>
         </header>
