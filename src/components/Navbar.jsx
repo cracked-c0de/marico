@@ -1,5 +1,5 @@
 import { Link, useLocation } from "react-router-dom"
-import Logo from "../assets/company_logo.svg"
+import Logo from "/assets/company_logo.svg"
 
 function Navbar() {
     let location = useLocation()

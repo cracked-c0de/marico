@@ -1,6 +1,6 @@
 import { useState } from "react"
-import { BsApple, BsEye, BsEyeFill, BsEyeSlash, BsEyeSlashFill } from "react-icons/bs"
-import { FaEye, FaFacebook, FaUser } from "react-icons/fa"
+import { BsApple, BsEyeFill, BsEyeSlashFill } from "react-icons/bs"
+import { FaFacebook, FaUser } from "react-icons/fa"
 import { FcGoogle } from "react-icons/fc"
 import { Link } from "react-router-dom"
 

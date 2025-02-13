@@ -1,7 +1,7 @@
-import Profile1 from "../../assets/Profile1.svg"
-import Profile2 from "../../assets/Profile2.svg"
-import Profile3 from "../../assets/Profile3.svg"
-import Arrow from "../../assets/Arrow.svg"
+import Profile1 from "/src/assets/Profile1.svg"
+import Profile2 from "/src/assets/Profile2.svg"
+import Profile3 from "/src/assets/Profile3.svg"
+import Arrow from "/src/assets/Arrow.svg"
 
 function Section1() {
     return(
